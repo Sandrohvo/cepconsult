@@ -1,5 +1,5 @@
-requests
-json
+import requests
+import json
         
 def cnpj():
     print("\n"+17*"="+"CONSULTA CNPJ"+16*"=")
