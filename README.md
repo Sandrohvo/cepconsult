@@ -1,2 +1,2 @@
 # cepconsult
-Consulta pública de cep
+Consulta pública de cnpj
